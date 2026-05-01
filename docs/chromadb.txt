@@ -1,0 +1,2 @@
+ChromaDB is a vector database used to store embeddings and perform similarity search.
+It is commonly used in Retrieval-Augmented Generation applications.

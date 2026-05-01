@@ -1,0 +1,2 @@
+RAG stands for Retrieval-Augmented Generation. It retrieves relevant context from a knowledge base
+and sends that context to a language model to answer questions with supporting information.

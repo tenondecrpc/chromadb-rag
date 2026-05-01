@@ -8,3 +8,7 @@ wheels/
 
 # Virtual environments
 .venv
+.env
+
+# ChromaDB persistent storage (auto-generated, can be rebuilt with ingest.py)
+chroma_data/

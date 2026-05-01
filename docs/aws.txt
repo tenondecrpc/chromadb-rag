@@ -1,0 +1,2 @@
+AWS Lambda is a serverless compute service. It runs code without provisioning servers.
+It is commonly used for APIs, event-driven workflows, and automation.
