@@ -1,7 +1,7 @@
 from pathlib import Path
 
 CHROMA_PATH = "./chroma_data"
-COLLECTION_NAME = "minimal_rag"
+COLLECTION_NAME = "chromadb_rag_collection"
 
 DOCS_PATH = Path("docs")
 

@@ -1,6 +1,5 @@
 import hashlib
 import os
-from pathlib import Path
 
 import chromadb
 from dotenv import load_dotenv
