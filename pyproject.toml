@@ -1,0 +1,7 @@
+[project]
+name = "chromadb-rag"
+version = "0.1.0"
+description = "Simple rag with chromadb as vector database with openai llms for retrieval and embedding"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
