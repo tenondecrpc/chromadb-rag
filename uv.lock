@@ -316,6 +316,7 @@ dependencies = [
     { name = "chromadb" },
     { name = "google-genai" },
     { name = "python-dotenv" },
+    { name = "tqdm" },
 ]
 
 [package.metadata]
@@ -323,6 +324,7 @@ requires-dist = [
     { name = "chromadb", specifier = ">=1.5.8" },
     { name = "google-genai", specifier = ">=1.0.0" },
     { name = "python-dotenv", specifier = ">=1.2.2" },
+    { name = "tqdm", specifier = ">=4.0.0" },
 ]
 
 [[package]]

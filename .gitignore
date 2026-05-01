@@ -12,3 +12,6 @@ wheels/
 
 # ChromaDB persistent storage (auto-generated, can be rebuilt with ingest.py)
 chroma_data/
+
+# MacOS files
+.DS_Store

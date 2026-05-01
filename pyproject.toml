@@ -8,4 +8,5 @@ dependencies = [
     "chromadb>=1.5.8",
     "google-genai>=1.0.0",
     "python-dotenv>=1.2.2",
+    "tqdm>=4.0.0",
 ]
