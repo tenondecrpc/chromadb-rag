@@ -10,5 +10,6 @@ wheels/
 .venv
 .env
 
-# ChromaDB persistent storage (auto-generated, can be rebuilt with ingest.py)
+# Auto-generated directories (can be rebuilt)
 chroma_data/
+converted/
