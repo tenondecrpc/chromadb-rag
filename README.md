@@ -205,3 +205,4 @@ Planned improvements roughly ordered by value/complexity:
 | 11 | **Metadata filtering** | 🔲 Pending | Filter retrieval by file name, source URL, or other metadata fields |
 | 12 | **Retrieval quality metrics** | 🔲 Pending | Measure precision/recall against a labeled eval set |
 | 13 | **Reranking** | 🔲 Pending | Add a cross-encoder reranker to reorder top-K results |
+| 14 | **Contextual retrieval** | 🔲 Pending | Prepend an LLM-generated context summary to each chunk before embedding to improve retrieval accuracy ([Anthropic](https://www.anthropic.com/engineering/contextual-retrieval)) |
